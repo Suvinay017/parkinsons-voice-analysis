@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+librosa
+soundfile
+scikit-learn
+imbalanced-learn
+seaborn
+matplotlib
+joblib
+tqdm
+# TensorFlow is needed for the Log-Mel CNN. Install a version compatible with your Python/runtime.
+# tensorflow

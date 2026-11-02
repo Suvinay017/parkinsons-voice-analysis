@@ -1,0 +1,5 @@
+partition,participants,recordings,healthy_control_participants,parkinsons_participants
+Development,48,605,27,21
+CNN training,38,474,,
+CNN validation,10,131,,
+Held-out test,17,226,10,7
